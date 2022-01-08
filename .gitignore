@@ -1,0 +1,6 @@
+*.h5
+*.hdf5
+/logs
+/defect_segmentation_models
+/.env
+/.idea
